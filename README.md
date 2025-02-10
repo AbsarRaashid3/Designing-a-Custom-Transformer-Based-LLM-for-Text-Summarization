@@ -64,7 +64,7 @@ NLTK / SpaCy (for text processing)
 ## Steps to Run:
 
 # Clone the repository
-git clone https://github.com/your-username/your-repo-name.git
+git clone https://github.com/AbsarRaashid3/Designing a Custom Transformer-Based LLM for Text Summarization.git
 cd your-repo-name
 
 # Install dependencies
